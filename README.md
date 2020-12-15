@@ -28,3 +28,6 @@ fast-forward
 
 # revert 테스트
 리버트 되돌리기 테스트
+
+# stash 테스트
+테스트
